@@ -1,1 +1,3 @@
-# bank-marketing
+# Bank Marketing
+**OBJECTIVE:** The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit. 
+The dataset is based on "Bank Marketing" UCI [dataset](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing). The data was enriched by the addition of five new social and economic features/attributes (national wide indicators from a ~10M population country), published by the Banco de Portugal and publicly available for research. The details are described in: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. *A Data-Driven Approach to Predict the Success of Bank Telemarketing*. Decision Support Systems, In press, http://dx.doi.org/10.1016/j.dss.2014.03.001. 
